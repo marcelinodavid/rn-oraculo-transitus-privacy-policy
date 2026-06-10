@@ -1,6 +1,6 @@
 # Política de Privacidad de Oráculo Transitus
 
-Última actualización: Mayo de 2026
+Última actualización: Junio de 2026
 
 Oráculo Transitus es una aplicación diseñada para ofrecer frases puente y reflexiones que pueden ayudar al usuario a observar sus estados emocionales desde una perspectiva diferente.
 
