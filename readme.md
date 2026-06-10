@@ -14,13 +14,37 @@ Todo el contenido de Oráculo Transitus se encuentra integrado dentro de la apli
 
 ## Almacenamiento de información
 
-Oráculo Transitus no almacena información personal en servidores propios ni comparte información personal con terceros.
+Oráculo Transitus no almacena información personal en servidores propios ni comparte información personal con terceros. Las selecciones de emociones se procesan únicamente de forma local dentro de la aplicación y no se envían a servidores externos.
+
+## Publicidad
+
+La aplicación utiliza Google AdMob para mostrar anuncios.
+
+Al utilizar la aplicación, Google y sus socios pueden recopilar cierta información técnica del dispositivo y datos relacionados con la visualización e interacción con anuncios, incluyendo:
+
+* Identificadores publicitarios del dispositivo.
+* Dirección IP aproximada.
+* Información del dispositivo (modelo, sistema operativo, idioma).
+* Datos de interacción con anuncios.
+
+Esta recopilación es realizada directamente por Google conforme a sus propias políticas de privacidad.
+
 
 ## Servicios de terceros
 
-Actualmente la aplicación no utiliza servicios publicitarios ni herramientas de análisis destinadas a recopilar información personal de los usuarios.
+La aplicación utiliza servicios proporcionados por terceros, incluyendo:
 
-En caso de que futuras versiones incorporen servicios adicionales, esta Política de Privacidad será actualizada para reflejar dichos cambios.
+* Google AdMob
+* Servicios de Google Play (Google Play Services)
+
+Estos servicios pueden recopilar y procesar información de acuerdo con sus propias políticas de privacidad.
+
+## Referencias de privacidad
+
+Para más información sobre cómo Google maneja los datos en sus servicios, puedes consultar:
+
+* https://policies.google.com/privacy
+* https://support.google.com/admob/answer/6128543
 
 ## Seguridad
 
