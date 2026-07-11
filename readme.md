@@ -1,6 +1,6 @@
 # Política de Privacidad de Oráculo Transitus
 
-Última actualización: Junio de 2026
+Última actualización: Julio de 2026
 
 Oráculo Transitus es una aplicación diseñada para ofrecer frases puente y reflexiones que pueden ayudar al usuario a observar sus estados emocionales desde una perspectiva diferente.
 
@@ -14,7 +14,7 @@ Todo el contenido de Oráculo Transitus se encuentra integrado dentro de la apli
 
 ## Almacenamiento de información
 
-Oráculo Transitus no almacena información personal en servidores propios ni comparte información personal con terceros. Las selecciones de emociones se procesan únicamente de forma local dentro de la aplicación y no se envían a servidores externos.
+Oráculo Transitus no almacena información personal en servidores propios ni comparte información personal con terceros. Las selecciones de emociones y la configuración de los recordatorios programados (como las emociones seleccionadas, los horarios y la frecuencia) se procesan y almacenan únicamente de forma local en el dispositivo del usuario para permitir el funcionamiento de la aplicación. Esta información no se envía a servidores externos ni se comparte con terceros.
 
 ## Publicidad
 
